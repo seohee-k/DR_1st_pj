@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/djqsp2/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/djqsp2/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/djqsp2/turtlebot3_ws/install/turtlebot3_manipulation_hardware/include/**",
+        "/home/djqsp2/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/djqsp2/turtlebot3_ws/install/open_manipulator_x_gui/include/**",
+        "/home/djqsp2/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/djqsp2/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/home/djqsp2/ros2_ws/install/realtime_control/include/**",
+        "/home/djqsp2/ros2_ws/install/od_msg/include/**",
+        "/home/djqsp2/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/djqsp2/ros2_ws/install/hangman_interfaces/include/**",
+        "/home/djqsp2/ros2_ws/install/gz_ros2_control/include/**",
+        "/home/djqsp2/ros2_ws/install/dsr_controller2/include/**",
+        "/home/djqsp2/ros2_ws/install/dsr_msgs2/include/**",
+        "/home/djqsp2/ros2_ws/install/dsr_hardware2/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/open_manipulator/open_manipulator_x_gui/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/open_manipulator/open_manipulator_x_teleop/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_teleop/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/djqsp2/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
