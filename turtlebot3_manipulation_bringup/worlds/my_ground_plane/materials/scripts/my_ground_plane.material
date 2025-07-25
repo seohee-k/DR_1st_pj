@@ -1,0 +1,18 @@
+material MyGroundPlane/Image
+        {
+          technique
+          {
+            pass
+            {
+             ambient 1.0 1.0 1.0 1       // 완전 밝은 주변광 (최대값)
+             diffuse 1.0 1.0 1.0 1       // 직사광 강하게 (최대값)
+             specular 0.2 0.2 0.2 1      // 조금 더 강한 반짝임 (그래도 너무 강하지 않음)
+
+
+              texture_unit
+              {
+                texture image.png
+              }
+            }
+          }
+        }
